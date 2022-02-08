@@ -34,7 +34,7 @@ mint install swiftyfinch/pidgey
 export PATH=$HOME/.mint/bin:$PATH
 ```
 Watch 🎬 [installation demo](https://github.com/swiftyfinch/Rugby/discussions/71)<br>
-It's from my other project, but the idea is the pretty same.
+It's from my another project, but the idea is the pretty same.
 
 ## How to use 🐦
 
